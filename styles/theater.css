@@ -1,0 +1,23 @@
+header {
+    background-color: aqua;
+}
+
+nav {
+    background-color: darkorange;    
+}
+
+main {
+    background-color: blueviolet;
+}
+
+ul {
+    background-color: black;
+}
+
+li {
+    color: chartreuse;
+}
+
+footer {
+    color: darkviolet;
+}
